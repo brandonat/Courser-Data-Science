@@ -56,9 +56,11 @@ cols <- grepl("mean\\(|std\\(", names(res))
 res  <- res[, c(1, 2, which(cols))]
 
 
+## Outputs
+## -------
+
 ## Create codebook
 Write(codebook(res), file = "Codebook.md")
 
-
-
-
+## Save file
+write.table(res, file = "tidy_data.txt", row.names = FALSE, quote = FALSE)
