@@ -1,6 +1,8 @@
 ## "Human Activity Recognition Using Smartphones Data Set"
 ## http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+## !! Before running code, unzip dataset to the working directory
+
 library(memisc)
 
 ## Read_custom with no header, sep = whitespace, and no factors variables
