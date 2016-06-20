@@ -30,8 +30,3 @@ ggplot(df, aes(x = factor(year), y = total / 1e6)) +
        title = "Total Emissions from Coal Combustion Sources") +
   theme_bw()
 dev.off()
-
-
-
-
-Emissions from coal combustion-related sources
