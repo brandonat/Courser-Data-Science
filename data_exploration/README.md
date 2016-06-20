@@ -2,9 +2,13 @@
 
 Analysis of fine particulate matter, referred to in the dataset as PM2.5.
 
-Data available from the AQS Data Mart:
+General air quality data available from the AQS Data Mart:
 
 [https://aqs.epa.gov/aqsweb/documents/data_mart_welcome.html](https://aqs.epa.gov/aqsweb/documents/data_mart_welcome.html)
+
+Data for this analysis available through the coursera course here:
+
+[https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
 
 #### Objectives
 
