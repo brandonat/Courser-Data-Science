@@ -7,9 +7,6 @@ output:
 
   
 ### Loading and preprocessing the data
-```{r, echo = FALSE}
-setwd("C:/users/btaylor/desktop/reproducible_research/")
-```
 ```{r load_data, message = FALSE}
 ##setwd(...)
 
